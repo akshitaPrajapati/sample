@@ -477,6 +477,7 @@ p {
 ===========================*/
 /*===== NAVBAR =====*/
 .navbar-area {
+  /* color: #fff; */
   position: absolute;
   top: 0;
   left: 0;
@@ -657,7 +658,7 @@ p {
         color: #fff; }
         .navbar-nav .nav-item .sub-menu li a.active, .navbar-nav .nav-item .sub-menu li a:hover {
           padding-left: 25px;
-          color: #361CC1; }
+          color: #fff; }
 
 .navbar-nav .sub-nav-toggler {
   display: none; }
@@ -801,6 +802,7 @@ p {
 ===========================*/
 @media (max-width: 767px) {
   .brand-logo {
+    /* color: #fff; */
     -ms-flex-wrap: wrap;
     flex-wrap: wrap; } }
 
